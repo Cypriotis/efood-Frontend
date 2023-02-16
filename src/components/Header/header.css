@@ -1,0 +1,75 @@
+.header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    scale: 30%;
+    text-align: left;
+    background-color: rgb(255, 1, 1);
+    color: rgb(255, 255, 255);
+  }
+
+  .headerText {
+    text-align: right;
+    scale: 50%;
+    background-color: rgba(202, 43, 43, 0);
+    color: rgba(255, 255, 255, 0.075);
+    position: absolute;
+    top: -75px;
+    left: -155px;
+  }
+
+  .headerRest {
+
+    text-align: right;
+    scale: 100%;
+    background-color: rgba(202, 43, 43, 0);
+    color: rgb(255, 0, 0);
+    position: absolute;
+    top: 25px;
+    left: 1320px;
+    font:700;
+
+  }
+
+  .headerRest2 {
+
+    text-align: left;
+    scale: 110%;
+    background-color: rgba(202, 43, 43, 0);
+    color: rgba(255, 0, 0, 0);
+    position: absolute;
+    top: 10px;
+    left: 1500px;
+  }
+
+  .orderHeader {
+    text-align: right;
+    scale: 100%;
+    top: 30px;
+    left: 1790px;
+  }
+
+  .makeOrder {
+    text-align: left;
+    scale: 110%;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 208, 0);
+    position: absolute;
+    border:rgb(255, 208, 0);
+    border-style:inherit;
+    top: 300px;
+    left: 750px;
+  }
+
+  .footerRest3 {
+
+    text-align: right;
+    scale: 110%;
+    background-color: rgba(202, 43, 43, 0);
+    color: rgba(255, 0, 0, 0);
+    position: absolute;
+    top: -5000px;
+    left: 1500px;
+  }
+  
